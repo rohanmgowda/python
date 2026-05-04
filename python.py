@@ -1,0 +1,8 @@
+name=input("Enter your name")
+reg =input("Enter reg no")
+College =input("Enter college name")
+Place=input("Enter the place ")
+print(name)
+print(reg)
+print(College)
+print(Place)

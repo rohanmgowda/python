@@ -18,3 +18,5 @@ elif operator =="/":
     print(a/b)
 elif operator =="%":
     print(a/b)
+elif operator == " ":
+    print("incorrect choice")
